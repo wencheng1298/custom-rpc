@@ -1,4 +1,4 @@
-# CZ4013
+# Custom RPC
 
 1. Run compile.bat to compile client and server code.
 
